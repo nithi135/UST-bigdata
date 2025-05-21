@@ -1,0 +1,20 @@
+mcq question on python 
+  
+
+    1.what will happen if you try to open a non-existing file using 'r' mode?
+        
+       a) a new empty file is created
+       b) python raises a filenotfounderror
+       c) the file contents are replaced with an empty string
+       d) the program silently ignores the error
+     ANSWER- python raises a filenotfounderror
+ 
+    2.what will file.seek(5)do when working with a file in python
+    
+       a)moves the file pointer to the 5th byte
+       b)moves the file pointer to the 5th line
+       c)moves the pointer to the last position in the file
+       d)moves the pointer backward by 5 bytes
+     ANSWER-moves the file pointer to the 5th byte
+       
+    
